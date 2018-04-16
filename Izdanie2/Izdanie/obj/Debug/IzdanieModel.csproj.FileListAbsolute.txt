@@ -1,0 +1,24 @@
+D:\Download\Izdanie\Izdanie\bin\Debug\Izdanie.exe.config
+D:\Download\Izdanie\Izdanie\obj\Debug\Izdanie.exe
+D:\Download\Izdanie\Izdanie\obj\Debug\Izdanie.pdb
+D:\Download\Izdanie\Izdanie\obj\Debug\IzdanieModel.csprojResolveAssemblyReference.cache
+D:\Download\Izdanie\Izdanie\bin\Debug\Izdanie.exe
+D:\Download\Izdanie\Izdanie\bin\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\Izdanie\Izdanie\bin\Debug\Izdanie.exe.config
+C:\Users\Dench\Desktop\Izdanie\Izdanie\bin\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\Izdanie\Izdanie\bin\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\Izdanie\Izdanie\obj\Debug\IzdanieModel.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\Izdanie\Izdanie\obj\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\Izdanie\Izdanie\obj\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\Izdanie1\Izdanie\bin\Debug\Izdanie.exe.config
+C:\Users\Dench\Desktop\Izdanie1\Izdanie\obj\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\Izdanie1\Izdanie\obj\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\Izdanie1\Izdanie\bin\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\Izdanie1\Izdanie\bin\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\Izdanie1\Izdanie\obj\Debug\IzdanieModel.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\курсач и лабы\Izdanie\Izdanie\bin\Debug\Izdanie.exe.config
+C:\Users\Dench\Desktop\курсач и лабы\Izdanie\Izdanie\obj\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\курсач и лабы\Izdanie\Izdanie\obj\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\курсач и лабы\Izdanie\Izdanie\bin\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\курсач и лабы\Izdanie\Izdanie\bin\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\курсач и лабы\Izdanie\Izdanie\obj\Debug\IzdanieModel.csprojResolveAssemblyReference.cache
